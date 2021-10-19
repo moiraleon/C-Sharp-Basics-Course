@@ -1,0 +1,1 @@
+namespaces act similar to packages in java they are are a collection of similar classes and exist for organizational purposes
