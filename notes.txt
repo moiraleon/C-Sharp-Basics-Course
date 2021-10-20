@@ -31,3 +31,24 @@ double
 decimal
 char
 bool
+
+
+How to Declare Primitive Types
+float number = 1.2f;
+decimal number = 1.2m;
+
+Non Primitive Types
+
+String,Array, Enum, Class
+
+Overflowing
+happens when you exceed the boundary of the byte data type
+to prevent use checked key word
+
+checked{
+    byte number = 255;
+    number = number +1;
+}
+
+will instead throw and exception 
+///likely you will never run in to this
