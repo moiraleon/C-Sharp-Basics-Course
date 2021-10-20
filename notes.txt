@@ -68,3 +68,39 @@ ToByte()
 ToInt16() --> to short
 ToInt32() --> to long
 ToInt64() --> to long
+
+Operators
++
+-
+*
+/
+%
+++
+--
+
+Comparison Operators 
+==
+!=
+>
+>=
+<
+<=
+
+Assignment Operators
+
+=
++= Ex a+=3 Equivalent a=a+3
+-+
+*=
+/=
+
+Logical Operators
+&& AND
+|| OR 
+! not
+
+Bitwise Operators
+
+& |
+
+Operates in "PEMDAS" order
