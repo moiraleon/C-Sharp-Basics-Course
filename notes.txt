@@ -55,3 +55,16 @@ will instead throw and exception
 
 SCOPE
 variables only accessible within their block of code or their children blocks
+
+//Types Conversion
+Casting (byte)(int)(float) done with parenthesis
+For incompatible types
+Convert.ToInt32(s)
+.Parse(s)
+
+Convert
+
+ToByte()
+ToInt16() --> to short
+ToInt32() --> to long
+ToInt64() --> to long
