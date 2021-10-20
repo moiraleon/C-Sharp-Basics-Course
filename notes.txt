@@ -52,3 +52,6 @@ checked{
 
 will instead throw and exception 
 ///likely you will never run in to this
+
+SCOPE
+variables only accessible within their block of code or their children blocks
