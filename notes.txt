@@ -170,3 +170,19 @@ switch(role){
     sout("You're a guest)
 }
 
+
+
+comparator operators can not be used on strings or reference types because they are looking at their storage not their actual value
+
+use the .equals() operator
+
+continue; statement moves the code back to the beginning of the loop
+
+For vs For each loop
+String[] fruits = ["apple","banana","mango"]
+
+for (int i = fruits.length; i >0; i--)
+sout(fruits[i]);
+
+for(String fruit: fruits) //fruit just represents each individual string object
+sout(fruit)
