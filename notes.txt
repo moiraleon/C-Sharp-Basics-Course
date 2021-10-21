@@ -104,3 +104,12 @@ Bitwise Operators
 & |
 
 Operates in "PEMDAS" order
+
+
+
+Logical Operators and If Statements
+for if, else if, else if there is only one line of code to be executed with condition
+then curly braces are not necessary and if the condition is between variables that are mentioned
+earlier the between && statement is not necessary
+
+
