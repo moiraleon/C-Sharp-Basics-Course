@@ -134,3 +134,39 @@ The Ternary Operator
 
 int income = 120_000;
 String className = income > 100_00 ? "First" : "Economy";
+
+Switch Statement 
+//can be used in place of an if statement
+
+String role = "admin";
+
+switch(role){
+    case "admin":
+    sout("You're and admin") 
+    break; 
+
+    case "moderator":
+    sout("You're a moderator")
+    break;
+
+    default:
+    sout("You're a guest)
+}
+
+//can be done with integers etc. just not with longs
+
+int role = 1;
+
+switch(role){
+    case 1:
+    sout("You're and admin") 
+    break; 
+ 
+    case 2:
+    sout("You're a moderator")
+    break;
+
+    default:
+    sout("You're a guest)
+}
+
